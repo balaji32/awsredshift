@@ -1,0 +1,2 @@
+# awsredshift
+Store AWS scripts
